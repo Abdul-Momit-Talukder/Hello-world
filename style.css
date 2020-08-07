@@ -1,0 +1,53 @@
+*{
+	margin: 0;
+	padding: 5px;
+}
+.page{
+
+	
+}
+.nav-bar{
+	width:100%;
+
+}
+ul li{
+		list-style:none;
+		
+    text-decoration: none;
+	float:right;
+
+}
+img {
+		border-radius:50%;
+	float:right;
+    height: 25px;
+}
+.search{
+	margin-left:300px;
+	width:490px;
+		padding:14px 90 px;
+	text-align:center;
+		border:1px solid gray;
+				border-radius:50px;
+				margin-top:250px;
+
+}
+input [type="text"]{
+width:200px;
+	padding: 13px 61px;
+  background: red;
+  border: 2px solid #0fabab;
+  text-align: center;
+  font-size: 30px;
+}
+.logo{
+			margin-top:50px;
+		margin-left:-150px;
+
+}
+.voice{
+		text-align:center;
+	margin-top:8px;
+		margin-left:100px;
+
+}
